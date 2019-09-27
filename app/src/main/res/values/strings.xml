@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BD Cricket Team</string>
+
+    <string-array name="player_name">
+        <item>Mashrafe Bin Mortaza</item>
+        <item>Sakib Al Hasan</item>
+        <item>Tamim Iqbal</item>
+        <item>Musfiqur Rahim</item>
+        <item>Mahmudulla Riyad</item>
+        <item>Soumya Sarkar</item>
+        <item>Liton Kumar Das</item>
+        <item>Mustafizur Rahman</item>
+    </string-array>
+
+    <string-array name="player_description">
+        <item>Mashrafe Bin Mortaza (born 5 October 1983 in Narail District) is a Bangladesh international cricketer, and current captain of the One Day Internationals for Bangladesh national cricket team. He is also a former T20I captain, until his retirement.</item>
+        <item>Shakib Al Hasan is a Bangladeshi international cricketer who holds the record for being ranked first as an all rounder in the One Day International format for 10 years and is still among the top 3 in highest current rankings in all three formats of the game.</item>
+        <item>Tamim Iqbal Khan is a Bangladeshi international cricketer. Tamim made his One Day International debut in 2007 and played his first Test the following year. He served as vice-captain of the national side between December 2010 and September 2011.</item>
+        <item>Mushfiqur Rahim is a Bangladeshi cricketer and the former captain of the Bangladesh national cricket team. Between August 2009 and December 2010 Rahim served as Bangladesh vice-captain in all formats. He was ranked as one of the worlds most famous athletes by ESPN WORLD FAME 100 in 2019.</item>
+        <item>Mahmudullah Riyad, commonly known as Mahmudullah, is a Bangladeshi cricketer and the current Test and T20I vice-captain. He has played First-class and List A cricket for Dhaka Division and has represented Bangladesh in all forms of the game.</item>
+        <item>Soumya Sarkar is a Bangladeshi cricketer. He is a left-handed batsman, right arm fast-medium bowler. Sarkar plays for the Rangpur Riders in the Bangladesh Premier League, Khulna Division in the National Cricket League, and Prime Bank Cricket Club in the Dhaka Premier Division.</item>
+        <item>Liton Kumar Das is a Bangladeshi cricketer. He is a right-handed opening batsman and wicket-keeper.</item>
+        <item>Mustafizur Rahman is a Bangladeshi international cricketer. He is specialized as a left-arm fast-medium bowler. He has taken the most wickets in a debut One Day International series. He is the first player to win the Man of the Match award on both Test as well as ODI debuts.</item>
+    </string-array>
+</resources>
